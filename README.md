@@ -1,5 +1,6 @@
 My inspiration the lordbong joon-ho south korean filmmaker
-<img width="833" height="767" alt="image" src="https://github.com/user-attachments/assets/dae77eb4-37f7-4a67-990c-db34c1b7bd88" />
+<img width="1919" height="868" alt="image" src="https://github.com/user-attachments/assets/abe79624-7b3b-4067-a6e3-d97a34cca594" />
+
 
 
 # Run and deploy your AI Studio app
